@@ -7,7 +7,7 @@ The script does the following:
 - Write sentences based on the csv data to an output file (the `out` file)
     
     
-The argeparse lets me pass the input and output file locations through the CLI as follows: 
+The argeparse lets you pass the input and output file locations through the CLI as follows: 
 
 `python write-presidents.py -in presidents.csv -out list.txt`
 
